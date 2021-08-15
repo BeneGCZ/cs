@@ -232,15 +232,9 @@ h6,
 
 .progress {
     border-radius: 10px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
 
 .progress .progress-bar {
-    display: flex;
-    align-items: center;
-    justify-content: center;
     width: 0px;
     border-radius: 10px;
     transition: 2s;
