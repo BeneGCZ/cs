@@ -144,7 +144,9 @@ h1,h2,h3,h4,h5,h6,p{
    }
 }
 /*===================== Progress Bar ====================*/
-
+div#skill.container-fluid.py-5 div.row.align-items-center {
+  padding-left: 500px;
+}
 .progress {
   border-radius: 10px;
 }
@@ -153,6 +155,7 @@ h1,h2,h3,h4,h5,h6,p{
   width: 0px;
   border-radius: 10px;
   transition: 2s;
+  
 }
 
 
