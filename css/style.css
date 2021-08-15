@@ -45,7 +45,7 @@ h1,h2,h3,h4,h5,h6,p{
 
 /********** Template CSS ************/
 
-
+.bg-primary {     background-color: #6c757d !important; }
 .text-stroke-header {
   -webkit-text-stroke: 3px #ffffff;
   color: transparent;
@@ -122,7 +122,7 @@ h1,h2,h3,h4,h5,h6,p{
 }
 
 .blue{
-  background-color: #000000;
+  background-color: #1c5ce6;
   color: #ffffff;
 }
 .btn{
